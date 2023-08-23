@@ -1,7 +1,5 @@
 
-
 //Dictionary from shall into an object in named language convert.
-
 
 const LANGUAGE_DE = [
   "hallo",
